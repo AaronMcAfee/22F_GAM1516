@@ -1,2 +1,5 @@
-my first commit
-im crying
+git status
+git add [name of file]
+git commit -m"comment"
+git push
+git pull
